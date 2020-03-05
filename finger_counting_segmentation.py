@@ -7,9 +7,9 @@ from sklearn.metrics import pairwise
 background = None
 accumulated_weight = .5
 roi_top = 20
-roi_bottom = 300
-roi_right = 300
-roi_left = 600
+roi_bottom = 400
+roi_right = 800
+roi_left = 1200
 
 
 def calc_accum_avg(frame, accumulated_weight):
