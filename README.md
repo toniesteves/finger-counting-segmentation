@@ -16,7 +16,7 @@ Além das referências, elaborei um artigo no medium.
 
 
 
-![alt text](https://cdn-images-1.medium.com/max/720/1*nD1OGLH9ZwA_pfz4nVEV_A.gif)
+![GERAR GIF]()
 
 ## Referências
 
