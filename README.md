@@ -1,4 +1,4 @@
-# Aplicação de Envoltrória Convexa
+# Aplicação de Envoltória Convexa
 
 Em um espaço euclidiano, uma região convexa é uma região onde, para cada par de pontos dentro da região, cada ponto no segmento de reta que une o par também está dentro da região. De forma geral, em geometria convexa, um conjunto convexo é um subconjunto de um espaço afim que é fechado sob combinações convexas.
 O limite de um conjunto convexo é sempre uma curva convexa. A interseção de todos os conjuntos convexos contendo um determinado subconjunto A do espaço euclidiano é chamada de invólucro convexo ou envoltória convexa de A. Assim, a Envoltória Convexa é o menor conjunto convexo contendo A.
