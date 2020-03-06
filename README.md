@@ -10,7 +10,7 @@ A Envoltória Convexa (Convex Hull) de um conjunto de pontos é definido como o 
 
 
 
-## Cálculo do fluxo óptico nos frames que seguem
+## Definição da Envoltória Convexa
 
 A ideia básica é definir um imagem limiar de uma mão (e as informações externas de contorno). Usando um pouco de matemática, é possível calcular o centro da mão em relação ao ângulo dos pontos externos para inferir a contagem de dedos. A definição da Envoltória Convexa será realizada pela função **cv2.convexHull()**
 Você pode encontrar mais informações sobre esta função na documentação do opencv disponível [aqui](https://docs.opencv.org/2.4/doc/tutorials/imgproc/shapedescriptors/hull/hull.html)
