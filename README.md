@@ -1,19 +1,40 @@
-# Aplicação de Contagem de dedos por segmentação
+# Aplicação de Envoltrória Convexa
+
+A Envoltória Convexa (Convex Hull) de um conjunto de pontos é definido como o menor polígono convexo, que inclui todos os pontos no conjunto. Convexo significa que o polígono não tem canto dobrado para dentro.
+
+## Dependências
+
+* **numpy 1.16.3**
+* **opencv-python 4.1**
+* **scikit-learn 0.22.2**
 
 
-## Ambiente
-
-Para trabalhar com o vídeo, utilizaremos o OpenCV.
-Primeiro, criaremos um objeto VideoCapture e leremos o primeiro quadro.
 
 ## Cálculo do fluxo óptico nos frames que seguem
 
+A ideia básica é definir um imagem limiar de uma mão (e as informações externas de contorno). Usando um pouco de matemática, é possível calcular o centro da mão em relação ao ângulo dos pontos externos para inferir a contagem de dedos. A definição da Envoltória Convexa será realizada pela função **cv2.convexHull()**
+Você pode encontrar mais informações sobre esta função na documentação do opencv disponível [aqui](https://docs.opencv.org/2.4/doc/tutorials/imgproc/shapedescriptors/hull/hull.html)
 
 ## Artigo medium
 
 Além das referências, elaborei um artigo no medium.
 
+[Segmentação com Envoltória Convexa e OpenCV](https://medium.com/@toni_esteves/segmenta%C3%A7%C3%A3o-com-envolt%C3%B3ria-convexa-e-opencv-118ef7138238)
+
+
 ![alt text](https://cdn-images-1.medium.com/max/720/1*l6f1ASymT-1uET0CK1oUQA.gif)
+
 
 ## Referências
 
+* https://books.google.com.br/books/about/Finite_Mathematics.html?id=EwhQCgAAQBAJ&redir_esc=y
+
+* https://books.google.com.br/books/about/Linear_Programming_Duality.html?id=w10OBwAAQBAJ&redir_esc=y
+
+* https://medium.com/r/?url=https%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FVisualizing-Eye-Tracking-Convex-Hull-Areas%253A-A-Pilot-Sears-Alruwaythi%2F1fd1f735e9a8f27892268a6fd219bc5e39d66758
+
+* https://en.wikipedia.org/wiki/Convex_hull
+
+* https://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/
+
+* https://www.sciencedirect.com/topics/computer-science/convex-hull
