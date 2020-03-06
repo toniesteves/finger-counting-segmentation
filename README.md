@@ -14,7 +14,7 @@ O limite de um conjunto convexo é sempre uma curva convexa. A interseção de t
 ## Definição da Envoltória Convexa
 
 A ideia básica é definir um imagem limiar de uma mão (e as informações externas de contorno). Usando um pouco de matemática, é possível calcular o centro da mão em relação ao ângulo dos pontos externos para inferir a contagem de dedos. A definição da Envoltória Convexa será realizada pela função **cv2.convexHull()**
-Você pode encontrar mais informações sobre esta função na documentação do opencv disponível [aqui](https://docs.opencv.org/2.4/doc/tutorials/imgproc/shapedescriptors/hull/hull.html)
+Você pode encontrar mais informações sobre esta função na documentação do opencv disponível [aqui].(https://docs.opencv.org/2.4/doc/tutorials/imgproc/shapedescriptors/hull/hull.html)
 
 ## Artigo medium
 
@@ -24,6 +24,7 @@ Além das referências, elaborei um artigo no medium.
 
 
 ![alt text](https://cdn-images-1.medium.com/max/720/1*l6f1ASymT-1uET0CK1oUQA.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 ## Referências
