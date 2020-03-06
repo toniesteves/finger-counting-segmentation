@@ -24,7 +24,6 @@ Além das referências, elaborei um artigo no medium.
 
 
 ![alt text](https://cdn-images-1.medium.com/max/720/1*l6f1ASymT-1uET0CK1oUQA.gif)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 ## Referências
