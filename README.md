@@ -23,7 +23,7 @@ Além das referências, elaborei um artigo no medium.
 [Segmentação com Envoltória Convexa e OpenCV](https://medium.com/@toni_esteves/segmenta%C3%A7%C3%A3o-com-envolt%C3%B3ria-convexa-e-opencv-118ef7138238)
 
 
-![alt text](https://cdn-images-1.medium.com/max/720/1*l6f1ASymT-1uET0CK1oUQA.gif)
+![alt text](https://miro.medium.com/max/576/1*l6f1ASymT-1uET0CK1oUQA.gif)
 
 
 ## Referências
