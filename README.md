@@ -23,7 +23,9 @@ Além das referências, elaborei um artigo no medium.
 [Segmentação com Envoltória Convexa e OpenCV](https://medium.com/@toni_esteves/segmenta%C3%A7%C3%A3o-com-envolt%C3%B3ria-convexa-e-opencv-118ef7138238)
 
 
-![Alt Text](https://miro.medium.com/max/576/1*U93hhw4fysqcMloBRpxM3w.gif)
+<kbd>
+	<img src=https://github.com/toniesteves/finger-counting-segmentation/blob/master/result.png>
+</kbd>
 
 
 ## Referências
