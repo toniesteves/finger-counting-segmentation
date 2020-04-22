@@ -20,7 +20,7 @@ Você pode encontrar mais informações sobre esta função na documentação do
 
 Além das referências, elaborei um artigo no medium.
 
-[Segmentação com Envoltória Convexa e OpenCV](https://medium.com/@toni_esteves/segmenta%C3%A7%C3%A3o-com-envolt%C3%B3ria-convexa-e-opencv-118ef7138238)
+- [Segmentação com Envoltória Convexa e OpenCV](https://medium.com/@toni_esteves/segmenta%C3%A7%C3%A3o-com-envolt%C3%B3ria-convexa-e-opencv-118ef7138238)
 
 
 ![alt text](https://s4.gifyu.com/images/ezgif.com-optimize-5.gif)
